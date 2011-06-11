@@ -1,3 +1,5 @@
-En esta carpeta se colocará toda la documentación del proyecto, esto incluirá
+﻿En esta carpeta se colocará toda la documentación del proyecto, esto incluirá
 hojas de datos de integrados, application notes, usos de librerias e incluso 
 documentacion generada por nosotros.
+
+Además posiblemente se agreguen mas cosas.
