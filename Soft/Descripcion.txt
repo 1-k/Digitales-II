@@ -1,0 +1,2 @@
+Esta carpeta contendrá todo lo relacionado a el software que llevará el microcontrolador adentro.
+El lenguaje con el cual se trabajará es C.

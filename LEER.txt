@@ -1,0 +1,16 @@
+﻿Proyecto de Digitales II para la UTN Regional Haedo.
+
+En un principio este proyecto consistirá en un DSP para frecuencias de audio (20hz--------20khz).
+Todo se realizará usando un microcontrolador LPC1343 o algun otro de la familia LPC13XX.
+
+Integrantes:
+
+    *Martin Emanuel Matias
+    *Gabriel Luis Mirabelli
+    *Emiliano Miguel Rampazzi
+    *Aníbal Alejandro Guanca
+
+El control de este proyecto se realizará con git, por ende será descentralizado y estará subido en un servidor de github.
+Todo el contenido estará disponible por todos para ser bajado y/o visto.
+
+Este software/hardware se licencia bajo la GPL3.0

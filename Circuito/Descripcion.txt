@@ -1,0 +1,4 @@
+En esta carpeta estará todo lo relacionado al circuito del proyecto,
+Lo cual incluirá esquematicos y diseños de PCB.
+Para el diseño y la realizacion del PCB y esquemático se utilizará el Kicad.
+
